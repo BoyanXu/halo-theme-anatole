@@ -12,11 +12,11 @@ sns:
           label: 开启
         - value: false
           label: 关闭
-    twitter:
-      name: twitter
-      label: Twitter
+    wechat:
+      name: wechat
+      label: Wechat
       type: text
-      placeholder: '只需填入 Twitter 用户名即可'
+      placeholder: '只需填入 微信公众号 即可'
     facebook:
       name: facebook
       label: Facebook

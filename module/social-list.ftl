@@ -8,7 +8,7 @@
     </li>
     </#if>
 
-    <#if settings.twitter??>
+    <#if settings.wechat??>
     <li>
         <a target="_blank" href="https://twitter.com/${settings.twitter}">
             <i class="fa fa-twitter"></i>
